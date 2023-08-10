@@ -1,4 +1,4 @@
-This is a project for school
+The first project in html 🤪 (for a campaign)
 <!--
 **ganondorf7/ganondorf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
