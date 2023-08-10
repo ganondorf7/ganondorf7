@@ -1,5 +1,5 @@
 Personal Blog.
-updates: Waiting for the first step
+updates: Waiting for the first step...
 <!--
 **ganondorf7/ganondorf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
